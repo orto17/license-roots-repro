@@ -1,0 +1,8 @@
+{
+  "name": "web",
+  "version": "1.0.0",
+  "license": "MIT",
+  "dependencies": {
+    "ms": "2.1.3"
+  }
+}
